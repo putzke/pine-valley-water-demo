@@ -3,6 +3,7 @@
 
   /* ---------- Language (English / Spanish) ---------- */
   var ES = {
+    preparedFor: 'Preparado para',
     demoStrong: 'Demostración conceptual.',
     demoText: 'Preparada por Sunrise Engineering y Black & Veatch para mostrar cómo mantendríamos informada a la comunidad. No es el sitio web oficial del Distrito.',
     demoLink: 'Acerca de este concepto',

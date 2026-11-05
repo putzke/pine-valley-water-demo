@@ -18,6 +18,10 @@ a:hover{color:var(--navy)}
 .skip:focus{left:8px;top:8px}
 
 .demo-bar{background:#14263a;color:#e9f0f5;font-size:14px;line-height:1.4;padding:8px 20px;display:flex;gap:16px;justify-content:center;align-items:center;flex-wrap:wrap;text-align:center}
+.client-bar{background:#fff;border-bottom:1px solid var(--line)}
+.client-inner{display:flex;align-items:center;gap:14px;padding-top:8px;padding-bottom:8px}
+.client-label{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#5a6b78}
+.client-bar img{height:40px;width:auto;display:block}
 .demo-bar a{color:#ffd58a;font-weight:600;white-space:nowrap}
 
 .site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
